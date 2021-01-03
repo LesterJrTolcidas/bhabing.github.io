@@ -1,29 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Bhabing!
 
-You can use the [editor on GitHub](https://github.com/LesterJrTolcidas/bhabing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Go to [Bhabing.ga](https://bhabing.ga/) for more info on this site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### LesterDevice Example Code
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+LesterDevice is a code that you use lua language.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+local administrator = require(20+13)
+  if (f``), print('Active!`) then
+    ld.activate(visual) -- Use visual code to execute lua.
+    
+   -- Note: lesterdevice code is harmful.
+   nsfw.add(1);
+   nsfw.add(2);
+   nsfw.add(3);
+   nsfw.add(4);
+   
+    if (administrator.permission -- has to grant) then
+      local let = do.Strength(2);
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
